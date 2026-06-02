@@ -1,0 +1,6 @@
+{
+  "name": "Flight Historian",
+  "description": "Track and visualize your historical flight routes on a global map",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
